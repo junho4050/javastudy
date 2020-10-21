@@ -133,7 +133,7 @@ public class MethodTest {
 				printme("경기도 의정부시", 24, "010-4050-7520");
 				System.out.println(k);
 	}
-	
+	 
 	
 	
 	
